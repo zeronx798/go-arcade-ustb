@@ -350,7 +350,7 @@
 ----
 ## 许可协议
 
-[![知识共享许可协议](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![知识共享许可协议](./_media/cc-by-nc-sa.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 本文档所有内容采用[知识共享 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议进行授权。
 
