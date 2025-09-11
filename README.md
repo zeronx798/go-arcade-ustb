@@ -346,3 +346,12 @@
 ----
 ## 致谢
 感谢 [全国音游地图](https://map.bemanicn.com) 的详细机台信息。
+
+----
+## 许可协议
+
+[![知识共享许可协议](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+本文档所有内容采用[知识共享 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议进行授权。
+
+这意味着您**可以自由转载、修改和重新发布**，但**必须注明来源**、**不得用于商业目的**，且修改后的内容**必须以相同的协议授权**。
