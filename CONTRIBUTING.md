@@ -46,7 +46,7 @@
 2.  **Clone 到本地**
     将您 Fork 后的仓库 Clone 到本地计算机。
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/{your-username}/{your-repo}.git
     cd your-repo
     ```
 
